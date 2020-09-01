@@ -1,3 +1,4 @@
-county,Gallatin,Missoula,Yellowstone
-One Bedroom FMR,715,735,708
-Monthly Salary,3681.58333333333,3527.33333333333,4000.66666666667
+county,One Bedroom FMR,Monthly Salary
+Gallatin,715,3681.58333333333
+Missoula,735,3527.33333333333
+Yellowstone,708,4000.66666666667
