@@ -1,53 +1,52 @@
-STATE,percent_voted
-UNITED STATES,56.0
-ALABAMA,56.4
-ALASKA,59.4
-ARIZONA,53.3
-ARKANSAS,56.0
-CALIFORNIA,48.2
-COLORADO,63.8
-CONNECTICUT,57.5
-DELAWARE,57.2
-DISTRICT OF COLUMBIA,68.7
-FLORIDA,52.9
-GEORGIA,55.7
-HAWAII,43.3
-IDAHO,58.3
-ILLINOIS,58.8
-INDIANA,56.0
-IOWA,60.7
-KANSAS,58.0
-KENTUCKY,55.3
-LOUISIANA,59.7
-MAINE,71.3
-MARYLAND,59.2
-MASSACHUSETTS,61.7
-MICHIGAN,61.8
-MINNESOTA,65.3
-MISSISSIPPI,66.7
-MISSOURI,62.8
-MONTANA,65.2
-NEBRASKA,63.4
-NEVADA,53.5
-NEW HAMPSHIRE,66.9
-NEW JERSEY,53.4
-NEW MEXICO,49.4
-NEW YORK,50.7
-NORTH CAROLINA,61.6
-NORTH DAKOTA,62.1
-OHIO,61.4
-OKLAHOMA,53.2
-OREGON,61.0
-PENNSYLVANIA,60.2
-RHODE ISLAND,55.5
-SOUTH CAROLINA,59.8
-SOUTH DAKOTA,57.3
-TENNESSEE,52.0
-TEXAS,47.7
-UTAH,58.9
-VERMONT,61.0
-VIRGINIA,62.6
-WASHINGTON,60.5
-WEST VIRGINIA,50.4
-WISCONSIN,68.7
-WYOMING,63.5
+state,percent_voted
+Alabama,56.4
+Alaska,59.4
+Arizona,53.3
+Arkansas,56.0
+California,48.2
+Colorado,63.8
+Connecticut,57.5
+Delaware,57.2
+District of Columbia,68.7
+Florida,52.9
+Georgia,55.7
+Hawaii,43.3
+Idaho,58.3
+Illinois,58.8
+Indiana,56.0
+Iowa,60.7
+Kansas,58.0
+Kentucky,55.3
+Louisiana,59.7
+Maine,71.3
+Maryland,59.2
+Massachusetts,61.7
+Michigan,61.8
+Minnesota,65.3
+Mississippi,66.7
+Missouri,62.8
+Montana,65.2
+Nebraska,63.4
+Nevada,53.5
+New Hampshire,66.9
+New Jersey,53.4
+New Mexico,49.4
+New York,50.7
+North Carolina,61.6
+North Dakota,62.1
+Ohio,61.4
+Oklahoma,53.2
+Oregon,61.0
+Pennsylvania,60.2
+Rhode Island,55.5
+South Carolina,59.8
+South Dakota,57.3
+Tennessee,52.0
+Texas,47.7
+Utah,58.9
+Vermont,61.0
+Virginia,62.6
+Washington,60.5
+West Virginia,50.4
+Wisconsin,68.7
+Wyoming,63.5
