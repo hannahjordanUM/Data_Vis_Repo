@@ -1,4 +1,4 @@
-countyFIPS,County Name,State,10/1/20,population,cases_per_pop
+countyFIPS,County Name,State,num_cases,population,cases_per_pop
 0,Statewide Unallocated,AL,0,0,
 01001,Autauga County,AL,1798,55869,3.2182
 01003,Baldwin County,AL,5997,223234,2.6864
