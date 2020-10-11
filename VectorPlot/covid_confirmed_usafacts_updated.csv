@@ -1,4 +1,4 @@
-countyFIPS,County Name,State,cases,cases_per_thousand,population,pop_per_thousand,pop_log,cases_per_pop
+countyFIPS,County Name,State,cases,cases_per_thousand,population,pop_per_thousand,population_log,cases_per_pop
 1001,Autauga County,AL,1798,1.798,55869,55.869,4.74717089798682,3.2182
 1003,Baldwin County,AL,5997,5.997,223234,223.234,5.34876034119676,2.6864
 1005,Barbour County,AL,898,0.898,24686,24.686,4.39245072465603,3.6377
