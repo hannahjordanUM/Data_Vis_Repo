@@ -1,4 +1,4 @@
-{
+var yellowstone = {
 "type": "FeatureCollection",
 "name": "ab67",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32100" } },
